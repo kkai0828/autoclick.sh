@@ -9,7 +9,10 @@
 
 ## 操作方式：
 
-1. 下載 autoClick.sh 並將他放到桌面
+1. 下載 autoClick.sh 並將他放到桌面  
+    - <img src="./img1.png" width=400 />  
+    - 點 Code 按 Download zip 
+    - 解壓縮後把資料夾內的 autoClick.sh 拉到桌面
 2. 按下 command + 空白鍵
 3. 輸入 terminal 或 終端機 打開終端機
 4. 回到產物課程畫面開始播放影片
